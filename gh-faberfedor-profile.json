@@ -1,0 +1,36 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-06-27T20:13:23Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:faberfedor"
+    },
+    {
+      "Claim": "mdon:@faberfedor@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "99a12780bb1bbbf5ec5d4d46",
+    "Timestamp": "2023-06-27T20:24:19Z",
+    "Signature": "781d72861ec1affa13f801eb7e08c69bc7c36259dddc231d4cdc5cceeccfe0c1e9714a7544c224d5b39e8e8615a217a6114aa271e0e288b911a45a8da202c70f665e3d07d0c8fa60fb350ca11b68cd791bf98643978c5be2a292086a688e3b75f1989c82b1efc6fe91692b4c2327aba3cd1efa9b233cda502fe3649de19d7cc71a874f4b739736183df9dd6895e8dc577eef6865ac06004a04d3cdca1cfa4bbdd968611b138e41ec96a1bb92487968e8ae360fced98788121fafb8d5c1b076eb7c428eb801737c9c269becafe253377fb36969092bc77942f00bf0b96867f784392e076726288e84572c443a589738bec3d05c04d7bc72b07bc953565b81ec88"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "b1a65a31cb4e7564e70e501fed52d4d54f9919a5c47abb1760d52c2585a8f565",
+  "ContentToHash": "v1|gh:faberfedor,mdon:@faberfedor@mastodon.social,med:no-account,post:no-account,spout:no-account,ss:no-account|2023-06-27T20:13:23Z"
+}
